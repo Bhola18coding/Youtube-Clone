@@ -1,6 +1,7 @@
 const apiKey = "AIzaSyBk2vWwU60xC_evThnIxTYHP2wuvwTrnTE";
 const baseUrl = `https://www.googleapis.com/youtube/v3`;
 
+// Js Project
 const searchBtn = document.querySelector(".header___search > i");
 const searchInput = document.querySelector(".header___search > input");
 
